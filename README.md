@@ -1,5 +1,7 @@
-# Wesley1041's Timing System 4
+# Wesley1041's Timing System 4 - Jam's Branch
 This repository hosts the source code and ROBLOX place file in which the model can be tested. This is an open source project where anyone will be able to contribute to it.
+
+This fork is used to develop extra features for the main branch to improve the quality of the plugin.
 
 ## Coding
 ### Single Script Architecture
